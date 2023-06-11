@@ -10,7 +10,7 @@ A simple 9-Pin Mini DIN breakout PCB for AV modding consoles. Uses standard Sega
 
 ## Version History
 
-v1 - 23/07/2022
+9-Pin Mini DIN Breakout PCB v1 - 23/07/2022
 
 ## License
 
