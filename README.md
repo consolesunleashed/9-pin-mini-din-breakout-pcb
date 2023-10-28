@@ -1,3 +1,7 @@
+Working on designs to release for free can be both time consuming and expensive. If you like what I do, a small donation will go a long way in helping me continue to serve the modding community as best as I can, with many more free and original guides, designs, and ideas to come.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C7NK7XO)
+
 # 9-Pin Mini DIN Breakout PCB
 
 A simple 9-Pin Mini DIN breakout PCB for AV modding consoles. Uses standard Sega Mega Drive 2 signal routing. Features a jumper to combine left and right audio channels, and a jumper to send the left audio channel, or both, to the mono audio pin. It's about as good as a 9-Pin Mini DIN breakout PCB could be.
